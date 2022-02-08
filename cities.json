@@ -1,0 +1,5297 @@
+[
+  {
+    "City": "A Coruña"
+  },
+  {
+    "City": "Aachen"
+  },
+  {
+    "City": "Aarhus"
+  },
+  {
+    "City": "Abbeville"
+  },
+  {
+    "City": "Aberdeen (UK)"
+  },
+  {
+    "City": "Aberdeen (South Dakota)"
+  },
+  {
+    "City": "Aberdeen (Washington)"
+  },
+  {
+    "City": "Abidjan"
+  },
+  {
+    "City": "Abilene"
+  },
+  {
+    "City": "Abu Dhabi"
+  },
+  {
+    "City": "Abuja"
+  },
+  {
+    "City": "Acapulco"
+  },
+  {
+    "City": "Accra"
+  },
+  {
+    "City": "Adamstown"
+  },
+  {
+    "City": "Addis Ababa"
+  },
+  {
+    "City": "Adelaide"
+  },
+  {
+    "City": "Adelboden"
+  },
+  {
+    "City": "Agadir"
+  },
+  {
+    "City": "Agde"
+  },
+  {
+    "City": "Agen"
+  },
+  {
+    "City": "Agios Nikolaos"
+  },
+  {
+    "City": "Agra"
+  },
+  {
+    "City": "Agrigento"
+  },
+  {
+    "City": "Agropoli"
+  },
+  {
+    "City": "Ahmedabad"
+  },
+  {
+    "City": "Aigues-Mortes"
+  },
+  {
+    "City": "Aix-en-Provence"
+  },
+  {
+    "City": "Aix-les-Bains"
+  },
+  {
+    "City": "Ajaccio"
+  },
+  {
+    "City": "Ajman"
+  },
+  {
+    "City": "Akron"
+  },
+  {
+    "City": "Al Ain"
+  },
+  {
+    "City": "Alanya"
+  },
+  {
+    "City": "Alaró"
+  },
+  {
+    "City": "Albacete"
+  },
+  {
+    "City": "Albany"
+  },
+  {
+    "City": "Albenga"
+  },
+  {
+    "City": "Albi"
+  },
+  {
+    "City": "Albufeira"
+  },
+  {
+    "City": "Albuquerque"
+  },
+  {
+    "City": "Alcudia"
+  },
+  {
+    "City": "Aleppo"
+  },
+  {
+    "City": "Alessandria"
+  },
+  {
+    "City": "Ålesund"
+  },
+  {
+    "City": "Alexandria"
+  },
+  {
+    "City": "Algeciras"
+  },
+  {
+    "City": "Alghero"
+  },
+  {
+    "City": "Algiers"
+  },
+  {
+    "City": "Alicante"
+  },
+  {
+    "City": "Alkmaar"
+  },
+  {
+    "City": "Allentown"
+  },
+  {
+    "City": "Almaty"
+  },
+  {
+    "City": "Alofi"
+  },
+  {
+    "City": "Alpe d'Huez"
+  },
+  {
+    "City": "Alta Badia"
+  },
+  {
+    "City": "Altea"
+  },
+  {
+    "City": "Altoona"
+  },
+  {
+    "City": "Amalfi"
+  },
+  {
+    "City": "Amarillo"
+  },
+  {
+    "City": "Amersfoort"
+  },
+  {
+    "City": "Amiens"
+  },
+  {
+    "City": "Amman"
+  },
+  {
+    "City": "Amsterdam"
+  },
+  {
+    "City": "Anaheim"
+  },
+  {
+    "City": "Anchorage"
+  },
+  {
+    "City": "Ancona"
+  },
+  {
+    "City": "Andalo"
+  },
+  {
+    "City": "Andermatt"
+  },
+  {
+    "City": "Andorra la Vella"
+  },
+  {
+    "City": "Andratx"
+  },
+  {
+    "City": "Andria"
+  },
+  {
+    "City": "Angers"
+  },
+  {
+    "City": "Angoulême"
+  },
+  {
+    "City": "Ankara"
+  },
+  {
+    "City": "Ann Arbor"
+  },
+  {
+    "City": "Annapolis"
+  },
+  {
+    "City": "Annecy"
+  },
+  {
+    "City": "Antalya"
+  },
+  {
+    "City": "Antananarivo"
+  },
+  {
+    "City": "Antibes"
+  },
+  {
+    "City": "Antwerp"
+  },
+  {
+    "City": "Anzio"
+  },
+  {
+    "City": "Ao Nang"
+  },
+  {
+    "City": "Aosta"
+  },
+  {
+    "City": "Apeldoorn"
+  },
+  {
+    "City": "Apia"
+  },
+  {
+    "City": "Appleton"
+  },
+  {
+    "City": "Aqaba"
+  },
+  {
+    "City": "Aracaju"
+  },
+  {
+    "City": "Arcachon"
+  },
+  {
+    "City": "Arenzano"
+  },
+  {
+    "City": "Arezzo"
+  },
+  {
+    "City": "Argostoli"
+  },
+  {
+    "City": "Arica"
+  },
+  {
+    "City": "Arles"
+  },
+  {
+    "City": "Arlington (Virginia)"
+  },
+  {
+    "City": "Arlington (Texas)"
+  },
+  {
+    "City": "Armagh"
+  },
+  {
+    "City": "Arnhem"
+  },
+  {
+    "City": "Arosa"
+  },
+  {
+    "City": "Arras"
+  },
+  {
+    "City": "Arrecife"
+  },
+  {
+    "City": "Artà"
+  },
+  {
+    "City": "Asbury Park"
+  },
+  {
+    "City": "Ascoli Piceno"
+  },
+  {
+    "City": "Ascona"
+  },
+  {
+    "City": "Ashdod"
+  },
+  {
+    "City": "Ashgabat"
+  },
+  {
+    "City": "Ashkelon"
+  },
+  {
+    "City": "Asmara"
+  },
+  {
+    "City": "Aspen"
+  },
+  {
+    "City": "Asti"
+  },
+  {
+    "City": "Astoria"
+  },
+  {
+    "City": "Asunción"
+  },
+  {
+    "City": "Atafu"
+  },
+  {
+    "City": "Athens"
+  },
+  {
+    "City": "Athlone"
+  },
+  {
+    "City": "Atlanta"
+  },
+  {
+    "City": "Atlantic City"
+  },
+  {
+    "City": "Auckland"
+  },
+  {
+    "City": "Augsburg"
+  },
+  {
+    "City": "Augusta (Georgia)"
+  },
+  {
+    "City": "Augusta (Maine)"
+  },
+  {
+    "City": "Aurora (Colorado)"
+  },
+  {
+    "City": "Aurora (Illinois)"
+  },
+  {
+    "City": "Austin"
+  },
+  {
+    "City": "Auxerre"
+  },
+  {
+    "City": "Avalon (California)"
+  },
+  {
+    "City": "Avalon (New Jersey)"
+  },
+  {
+    "City": "Avarua"
+  },
+  {
+    "City": "Aveiro"
+  },
+  {
+    "City": "Avellino"
+  },
+  {
+    "City": "Avignon"
+  },
+  {
+    "City": "Avila Beach"
+  },
+  {
+    "City": "Avoriaz"
+  },
+  {
+    "City": "Axamer Lizum"
+  },
+  {
+    "City": "Ayia Napa"
+  },
+  {
+    "City": "Azusa"
+  },
+  {
+    "City": "Bad Gastein"
+  },
+  {
+    "City": "Bad Hofgastein"
+  },
+  {
+    "City": "Baden"
+  },
+  {
+    "City": "Baghdad"
+  },
+  {
+    "City": "Baiona"
+  },
+  {
+    "City": "Bakersfield"
+  },
+  {
+    "City": "Baku"
+  },
+  {
+    "City": "Baltimore"
+  },
+  {
+    "City": "Bamako"
+  },
+  {
+    "City": "Bandar Seri Begawan"
+  },
+  {
+    "City": "Bandol"
+  },
+  {
+    "City": "Bangalore"
+  },
+  {
+    "City": "Bangkok"
+  },
+  {
+    "City": "Bangor"
+  },
+  {
+    "City": "Bangui"
+  },
+  {
+    "City": "Banjul"
+  },
+  {
+    "City": "Bar"
+  },
+  {
+    "City": "Bar Harbor"
+  },
+  {
+    "City": "Barcelona"
+  },
+  {
+    "City": "Bari"
+  },
+  {
+    "City": "Barletta"
+  },
+  {
+    "City": "Barstow"
+  },
+  {
+    "City": "Basel"
+  },
+  {
+    "City": "Basseterre"
+  },
+  {
+    "City": "Basse-Terre"
+  },
+  {
+    "City": "Bastia"
+  },
+  {
+    "City": "Bata"
+  },
+  {
+    "City": "Bath"
+  },
+  {
+    "City": "Baton Rouge"
+  },
+  {
+    "City": "Batumi"
+  },
+  {
+    "City": "Bayonne"
+  },
+  {
+    "City": "Beaulieu-sur-Mer"
+  },
+  {
+    "City": "Beaumont"
+  },
+  {
+    "City": "Beaune"
+  },
+  {
+    "City": "Beersheba"
+  },
+  {
+    "City": "Beijing"
+  },
+  {
+    "City": "Beirut"
+  },
+  {
+    "City": "Belfast"
+  },
+  {
+    "City": "Belfort"
+  },
+  {
+    "City": "Belgrade"
+  },
+  {
+    "City": "Belize City"
+  },
+  {
+    "City": "Bellingham"
+  },
+  {
+    "City": "Bellinzona"
+  },
+  {
+    "City": "Belluno"
+  },
+  {
+    "City": "Belmopan"
+  },
+  {
+    "City": "Belo Horizonte"
+  },
+  {
+    "City": "Bemidji"
+  },
+  {
+    "City": "Benalmadena"
+  },
+  {
+    "City": "Bend"
+  },
+  {
+    "City": "Bendigo"
+  },
+  {
+    "City": "Benevento"
+  },
+  {
+    "City": "Benicàssim"
+  },
+  {
+    "City": "Benidorm"
+  },
+  {
+    "City": "Bergamo"
+  },
+  {
+    "City": "Bergen"
+  },
+  {
+    "City": "Bergerac"
+  },
+  {
+    "City": "Berkeley"
+  },
+  {
+    "City": "Berlin"
+  },
+  {
+    "City": "Bern"
+  },
+  {
+    "City": "Besançon"
+  },
+  {
+    "City": "Bethlehem"
+  },
+  {
+    "City": "Beverly Hills"
+  },
+  {
+    "City": "Béziers"
+  },
+  {
+    "City": "Biarritz"
+  },
+  {
+    "City": "Biel/Bienne"
+  },
+  {
+    "City": "Bielefeld"
+  },
+  {
+    "City": "Biella"
+  },
+  {
+    "City": "Bilbao"
+  },
+  {
+    "City": "Billings"
+  },
+  {
+    "City": "Biloxi"
+  },
+  {
+    "City": "Birmingham (UK)"
+  },
+  {
+    "City": "Birmingham (U.S.)"
+  },
+  {
+    "City": "Bishkek"
+  },
+  {
+    "City": "Bismarck"
+  },
+  {
+    "City": "Bissau"
+  },
+  {
+    "City": "Blanes"
+  },
+  {
+    "City": "Bled"
+  },
+  {
+    "City": "Blois"
+  },
+  {
+    "City": "Bloomington"
+  },
+  {
+    "City": "Blumenau"
+  },
+  {
+    "City": "Boca Chica"
+  },
+  {
+    "City": "Boca Raton"
+  },
+  {
+    "City": "Bochum"
+  },
+  {
+    "City": "Bodrum"
+  },
+  {
+    "City": "Bogotá"
+  },
+  {
+    "City": "Boise"
+  },
+  {
+    "City": "Bologna"
+  },
+  {
+    "City": "Bolzano"
+  },
+  {
+    "City": "Bonifacio"
+  },
+  {
+    "City": "Bonn"
+  },
+  {
+    "City": "Bordeaux"
+  },
+  {
+    "City": "Bordighera"
+  },
+  {
+    "City": "Bormio"
+  },
+  {
+    "City": "Boston"
+  },
+  {
+    "City": "Boulder"
+  },
+  {
+    "City": "Boulogne-sur-Mer"
+  },
+  {
+    "City": "Bourges"
+  },
+  {
+    "City": "Bowling Green"
+  },
+  {
+    "City": "Boynton Beach"
+  },
+  {
+    "City": "Bozeman"
+  },
+  {
+    "City": "Bradenton"
+  },
+  {
+    "City": "Bradford"
+  },
+  {
+    "City": "Braga"
+  },
+  {
+    "City": "Brampton"
+  },
+  {
+    "City": "Brasilia"
+  },
+  {
+    "City": "Bratislava"
+  },
+  {
+    "City": "Braunschweig"
+  },
+  {
+    "City": "Brazzaville"
+  },
+  {
+    "City": "Breda"
+  },
+  {
+    "City": "Bregenz"
+  },
+  {
+    "City": "Brela"
+  },
+  {
+    "City": "Bremen"
+  },
+  {
+    "City": "Bremerhaven"
+  },
+  {
+    "City": "Brescia"
+  },
+  {
+    "City": "Brest"
+  },
+  {
+    "City": "Briançon"
+  },
+  {
+    "City": "Bridgeport"
+  },
+  {
+    "City": "Bridgetown"
+  },
+  {
+    "City": "Brighton"
+  },
+  {
+    "City": "Brindisi"
+  },
+  {
+    "City": "Brisbane"
+  },
+  {
+    "City": "Bristol"
+  },
+  {
+    "City": "Brixen"
+  },
+  {
+    "City": "Brixental"
+  },
+  {
+    "City": "Brno"
+  },
+  {
+    "City": "Brookings"
+  },
+  {
+    "City": "Brownsville"
+  },
+  {
+    "City": "Bruges"
+  },
+  {
+    "City": "Brussels"
+  },
+  {
+    "City": "Bucharest"
+  },
+  {
+    "City": "Budapest"
+  },
+  {
+    "City": "Budva"
+  },
+  {
+    "City": "Buenos Aires"
+  },
+  {
+    "City": "Buffalo"
+  },
+  {
+    "City": "Bujumbura"
+  },
+  {
+    "City": "Burgas"
+  },
+  {
+    "City": "Burlington"
+  },
+  {
+    "City": "Burnt Pine"
+  },
+  {
+    "City": "Butte"
+  },
+  {
+    "City": "Cabo San Lucas"
+  },
+  {
+    "City": "Cadaqués"
+  },
+  {
+    "City": "Cádiz"
+  },
+  {
+    "City": "Caen"
+  },
+  {
+    "City": "Cagliari"
+  },
+  {
+    "City": "Cagnes-sur-Mer"
+  },
+  {
+    "City": "Cairns"
+  },
+  {
+    "City": "Cala Bona"
+  },
+  {
+    "City": "Cala d'Or"
+  },
+  {
+    "City": "Cala Millor"
+  },
+  {
+    "City": "Cala Ratjada"
+  },
+  {
+    "City": "Calais"
+  },
+  {
+    "City": "Calella"
+  },
+  {
+    "City": "Calgary"
+  },
+  {
+    "City": "Cali"
+  },
+  {
+    "City": "Caloundra"
+  },
+  {
+    "City": "Calp"
+  },
+  {
+    "City": "Caltanissetta"
+  },
+  {
+    "City": "Calvi"
+  },
+  {
+    "City": "Cambridge (UK)"
+  },
+  {
+    "City": "Cambridge (U.S.)"
+  },
+  {
+    "City": "Cambrils"
+  },
+  {
+    "City": "Camden"
+  },
+  {
+    "City": "Campinas"
+  },
+  {
+    "City": "Campobasso"
+  },
+  {
+    "City": "Can Pastilla"
+  },
+  {
+    "City": "Can Picafort"
+  },
+  {
+    "City": "Canazei"
+  },
+  {
+    "City": "Canberra"
+  },
+  {
+    "City": "Cancun"
+  },
+  {
+    "City": "Cannes"
+  },
+  {
+    "City": "Cannon Beach"
+  },
+  {
+    "City": "Canterbury"
+  },
+  {
+    "City": "Canton"
+  },
+  {
+    "City": "Canyamel"
+  },
+  {
+    "City": "Capdepera"
+  },
+  {
+    "City": "Cape Canaveral"
+  },
+  {
+    "City": "Cape Coral"
+  },
+  {
+    "City": "Cape May"
+  },
+  {
+    "City": "Cape Town"
+  },
+  {
+    "City": "Capitola"
+  },
+  {
+    "City": "Carbonia"
+  },
+  {
+    "City": "Carcassonne"
+  },
+  {
+    "City": "Cardiff"
+  },
+  {
+    "City": "Carlisle"
+  },
+  {
+    "City": "Carlsbad"
+  },
+  {
+    "City": "Carmel-by-the-Sea"
+  },
+  {
+    "City": "Carpi"
+  },
+  {
+    "City": "Carpinteria"
+  },
+  {
+    "City": "Carrara"
+  },
+  {
+    "City": "Carson City"
+  },
+  {
+    "City": "Cartagena (Colombia)"
+  },
+  {
+    "City": "Cartagena (Spain)"
+  },
+  {
+    "City": "Casablanca"
+  },
+  {
+    "City": "Caserta"
+  },
+  {
+    "City": "Casper"
+  },
+  {
+    "City": "Cassis"
+  },
+  {
+    "City": "Castellón de la Plana"
+  },
+  {
+    "City": "Castelrotto"
+  },
+  {
+    "City": "Castletown"
+  },
+  {
+    "City": "Castries"
+  },
+  {
+    "City": "Catania"
+  },
+  {
+    "City": "Catanzaro"
+  },
+  {
+    "City": "Caxias do Sul"
+  },
+  {
+    "City": "Cedar Rapids"
+  },
+  {
+    "City": "Celle"
+  },
+  {
+    "City": "Cervinia"
+  },
+  {
+    "City": "Cesena"
+  },
+  {
+    "City": "Český Krumlov"
+  },
+  {
+    "City": "Çeşme"
+  },
+  {
+    "City": "Chamonix"
+  },
+  {
+    "City": "Chandler"
+  },
+  {
+    "City": "Chania"
+  },
+  {
+    "City": "Charleroi"
+  },
+  {
+    "City": "Charleston (West Virginia)"
+  },
+  {
+    "City": "Charleston (South Carolina)"
+  },
+  {
+    "City": "Charlestown"
+  },
+  {
+    "City": "Charlotte"
+  },
+  {
+    "City": "Charlotte Amalie"
+  },
+  {
+    "City": "Charlottetown"
+  },
+  {
+    "City": "Chartres"
+  },
+  {
+    "City": "Chattanooga"
+  },
+  {
+    "City": "Chelmsford"
+  },
+  {
+    "City": "Chemnitz"
+  },
+  {
+    "City": "Chennai"
+  },
+  {
+    "City": "Cherbourg"
+  },
+  {
+    "City": "Chesapeake"
+  },
+  {
+    "City": "Chester"
+  },
+  {
+    "City": "Cheyenne"
+  },
+  {
+    "City": "Chiang Mai"
+  },
+  {
+    "City": "Chiang Rai"
+  },
+  {
+    "City": "Chiavari"
+  },
+  {
+    "City": "Chicago"
+  },
+  {
+    "City": "Chichester"
+  },
+  {
+    "City": "Chieti"
+  },
+  {
+    "City": "Chincoteague"
+  },
+  {
+    "City": "Chioggia"
+  },
+  {
+    "City": "Chios"
+  },
+  {
+    "City": "Chișinău"
+  },
+  {
+    "City": "Chonburi"
+  },
+  {
+    "City": "Christchurch"
+  },
+  {
+    "City": "Christiansted"
+  },
+  {
+    "City": "Chula Vista"
+  },
+  {
+    "City": "Chur"
+  },
+  {
+    "City": "Cincinnati"
+  },
+  {
+    "City": "Ciutadella de Menorca"
+  },
+  {
+    "City": "Civitavecchia"
+  },
+  {
+    "City": "Clarksville"
+  },
+  {
+    "City": "Clearwater"
+  },
+  {
+    "City": "Clermont-Ferrand"
+  },
+  {
+    "City": "Cleveland"
+  },
+  {
+    "City": "Cockburn Town"
+  },
+  {
+    "City": "Cocoa Beach"
+  },
+  {
+    "City": "Coconut Creek"
+  },
+  {
+    "City": "Coimbra"
+  },
+  {
+    "City": "Collioure"
+  },
+  {
+    "City": "Colmar"
+  },
+  {
+    "City": "Cologne"
+  },
+  {
+    "City": "Colombo"
+  },
+  {
+    "City": "Colón"
+  },
+  {
+    "City": "Colorado Springs"
+  },
+  {
+    "City": "Columbia (South Carolina)"
+  },
+  {
+    "City": "Columbia (Missouri)"
+  },
+  {
+    "City": "Columbus"
+  },
+  {
+    "City": "Como"
+  },
+  {
+    "City": "Conakry"
+  },
+  {
+    "City": "Concepción"
+  },
+  {
+    "City": "Concord"
+  },
+  {
+    "City": "Conil de la Frontera"
+  },
+  {
+    "City": "Conway"
+  },
+  {
+    "City": "Copenhagen"
+  },
+  {
+    "City": "Coral Springs"
+  },
+  {
+    "City": "Córdoba (Argentina)"
+  },
+  {
+    "City": "Córdoba (Spain)"
+  },
+  {
+    "City": "Corfu"
+  },
+  {
+    "City": "Corinth"
+  },
+  {
+    "City": "Cork"
+  },
+  {
+    "City": "Corpus Christi"
+  },
+  {
+    "City": "Corralejo"
+  },
+  {
+    "City": "Cortina d'Ampezzo"
+  },
+  {
+    "City": "Cosenza"
+  },
+  {
+    "City": "Costa Adeje"
+  },
+  {
+    "City": "Cottbus"
+  },
+  {
+    "City": "Courchevel"
+  },
+  {
+    "City": "Courmayeur"
+  },
+  {
+    "City": "Coventry"
+  },
+  {
+    "City": "Covington"
+  },
+  {
+    "City": "Coyhaique"
+  },
+  {
+    "City": "Cozumel"
+  },
+  {
+    "City": "Crans-Montana"
+  },
+  {
+    "City": "Cremona"
+  },
+  {
+    "City": "Crotone"
+  },
+  {
+    "City": "Cruz Bay"
+  },
+  {
+    "City": "Cuenca (Ecuador)"
+  },
+  {
+    "City": "Cuenca (Spain)"
+  },
+  {
+    "City": "Cuneo"
+  },
+  {
+    "City": "Da Nang"
+  },
+  {
+    "City": "Dachau"
+  },
+  {
+    "City": "Dakar"
+  },
+  {
+    "City": "Dallas"
+  },
+  {
+    "City": "Damascus"
+  },
+  {
+    "City": "Dana Point"
+  },
+  {
+    "City": "Dar es Salaam"
+  },
+  {
+    "City": "Darmstadt"
+  },
+  {
+    "City": "Darwin"
+  },
+  {
+    "City": "Daugavpils"
+  },
+  {
+    "City": "Dauphin Island"
+  },
+  {
+    "City": "Davenport"
+  },
+  {
+    "City": "Davos"
+  },
+  {
+    "City": "Dayton"
+  },
+  {
+    "City": "Daytona Beach"
+  },
+  {
+    "City": "Deauville"
+  },
+  {
+    "City": "Decatur"
+  },
+  {
+    "City": "Deerfield Beach"
+  },
+  {
+    "City": "Del Mar"
+  },
+  {
+    "City": "Delft"
+  },
+  {
+    "City": "Delhi"
+  },
+  {
+    "City": "Delray Beach"
+  },
+  {
+    "City": "Den Bosch"
+  },
+  {
+    "City": "Denia"
+  },
+  {
+    "City": "Denton"
+  },
+  {
+    "City": "Denver"
+  },
+  {
+    "City": "Derby"
+  },
+  {
+    "City": "Derry"
+  },
+  {
+    "City": "Des Moines"
+  },
+  {
+    "City": "Detroit"
+  },
+  {
+    "City": "Dhaka"
+  },
+  {
+    "City": "Didim"
+  },
+  {
+    "City": "Dieppe"
+  },
+  {
+    "City": "Dijon"
+  },
+  {
+    "City": "Dili"
+  },
+  {
+    "City": "Djibouti"
+  },
+  {
+    "City": "Dodoma"
+  },
+  {
+    "City": "Doha"
+  },
+  {
+    "City": "Dolomiti Superski"
+  },
+  {
+    "City": "Dordrecht"
+  },
+  {
+    "City": "Dorfgastein"
+  },
+  {
+    "City": "Dortmund"
+  },
+  {
+    "City": "Dothan"
+  },
+  {
+    "City": "Douala"
+  },
+  {
+    "City": "Douglas"
+  },
+  {
+    "City": "Dover (Delaware)"
+  },
+  {
+    "City": "Dover (New Hampshire)"
+  },
+  {
+    "City": "Dresden"
+  },
+  {
+    "City": "Dubai"
+  },
+  {
+    "City": "Dublin"
+  },
+  {
+    "City": "Dubrovnik"
+  },
+  {
+    "City": "Duisburg"
+  },
+  {
+    "City": "Duluth"
+  },
+  {
+    "City": "Dundalk"
+  },
+  {
+    "City": "Dundee"
+  },
+  {
+    "City": "Dunedin"
+  },
+  {
+    "City": "Dunkirk"
+  },
+  {
+    "City": "Durham (UK)"
+  },
+  {
+    "City": "Durham (U.S.)"
+  },
+  {
+    "City": "Dushanbe"
+  },
+  {
+    "City": "Düsseldorf"
+  },
+  {
+    "City": "Eastbourne"
+  },
+  {
+    "City": "Eau Claire"
+  },
+  {
+    "City": "Edgartown"
+  },
+  {
+    "City": "Edinburgh"
+  },
+  {
+    "City": "Edmonton"
+  },
+  {
+    "City": "Eilat"
+  },
+  {
+    "City": "Eindhoven"
+  },
+  {
+    "City": "El Paso"
+  },
+  {
+    "City": "Elche"
+  },
+  {
+    "City": "Elizabeth"
+  },
+  {
+    "City": "Elko"
+  },
+  {
+    "City": "Ellmau"
+  },
+  {
+    "City": "Elm"
+  },
+  {
+    "City": "Empuriabrava"
+  },
+  {
+    "City": "Encinitas"
+  },
+  {
+    "City": "Engelberg"
+  },
+  {
+    "City": "Enna"
+  },
+  {
+    "City": "Enschede"
+  },
+  {
+    "City": "Épinal"
+  },
+  {
+    "City": "Erfurt"
+  },
+  {
+    "City": "Erie"
+  },
+  {
+    "City": "Erlangen"
+  },
+  {
+    "City": "Esbjerg"
+  },
+  {
+    "City": "Espace Killy"
+  },
+  {
+    "City": "Essaouira"
+  },
+  {
+    "City": "Essen"
+  },
+  {
+    "City": "Estepona"
+  },
+  {
+    "City": "Eugene"
+  },
+  {
+    "City": "Eureka"
+  },
+  {
+    "City": "Evansville"
+  },
+  {
+    "City": "Everett"
+  },
+  {
+    "City": "Exeter"
+  },
+  {
+    "City": "Èze"
+  },
+  {
+    "City": "Faenza"
+  },
+  {
+    "City": "Fairbanks"
+  },
+  {
+    "City": "Fakaofo"
+  },
+  {
+    "City": "Falmouth"
+  },
+  {
+    "City": "Famagusta"
+  },
+  {
+    "City": "Fano"
+  },
+  {
+    "City": "Fargo"
+  },
+  {
+    "City": "Faro"
+  },
+  {
+    "City": "Fayetteville (North Carolina)"
+  },
+  {
+    "City": "Fayetteville (Arkansas)"
+  },
+  {
+    "City": "Fermo"
+  },
+  {
+    "City": "Fernandina Beach"
+  },
+  {
+    "City": "Ferrara"
+  },
+  {
+    "City": "Fethiye"
+  },
+  {
+    "City": "Fez"
+  },
+  {
+    "City": "Fieberbrunn"
+  },
+  {
+    "City": "Filzmoos"
+  },
+  {
+    "City": "Finale Ligure"
+  },
+  {
+    "City": "Fiumicino"
+  },
+  {
+    "City": "Flagstaff"
+  },
+  {
+    "City": "Flaine"
+  },
+  {
+    "City": "Flint"
+  },
+  {
+    "City": "Florence"
+  },
+  {
+    "City": "Florence (Alabama)"
+  },
+  {
+    "City": "Foggia"
+  },
+  {
+    "City": "Folgarida"
+  },
+  {
+    "City": "Fontana"
+  },
+  {
+    "City": "Forlì"
+  },
+  {
+    "City": "Fort Collins"
+  },
+  {
+    "City": "Fort Lauderdale"
+  },
+  {
+    "City": "Fort Myers"
+  },
+  {
+    "City": "Fort Smith"
+  },
+  {
+    "City": "Fort Wayne"
+  },
+  {
+    "City": "Fort Worth"
+  },
+  {
+    "City": "Fort-de-France"
+  },
+  {
+    "City": "Forte dei Marmi"
+  },
+  {
+    "City": "Foz do Iguaçu"
+  },
+  {
+    "City": "Frankfort"
+  },
+  {
+    "City": "Frankfurt am Main"
+  },
+  {
+    "City": "Franklin"
+  },
+  {
+    "City": "Frederick"
+  },
+  {
+    "City": "Fredericton"
+  },
+  {
+    "City": "Frederiksted"
+  },
+  {
+    "City": "Freeport"
+  },
+  {
+    "City": "Freetown"
+  },
+  {
+    "City": "Freiburg"
+  },
+  {
+    "City": "Fremont"
+  },
+  {
+    "City": "Fresno"
+  },
+  {
+    "City": "Fribourg"
+  },
+  {
+    "City": "Frosinone"
+  },
+  {
+    "City": "Fuengirola"
+  },
+  {
+    "City": "Fujairah"
+  },
+  {
+    "City": "Fukuoka"
+  },
+  {
+    "City": "Funafuti"
+  },
+  {
+    "City": "Funchal"
+  },
+  {
+    "City": "Gaborone"
+  },
+  {
+    "City": "Gainesville"
+  },
+  {
+    "City": "Galtür"
+  },
+  {
+    "City": "Galway"
+  },
+  {
+    "City": "Gandia"
+  },
+  {
+    "City": "Garden Grove"
+  },
+  {
+    "City": "Garland"
+  },
+  {
+    "City": "Gastonia"
+  },
+  {
+    "City": "Gatineau"
+  },
+  {
+    "City": "Gaza City"
+  },
+  {
+    "City": "Gdansk"
+  },
+  {
+    "City": "Gdynia"
+  },
+  {
+    "City": "Geelong"
+  },
+  {
+    "City": "Gelsenkirchen"
+  },
+  {
+    "City": "Geneva"
+  },
+  {
+    "City": "Genoa"
+  },
+  {
+    "City": "George Town (Cayman Islands)"
+  },
+  {
+    "City": "George Town (Malaysia)"
+  },
+  {
+    "City": "Georgetown"
+  },
+  {
+    "City": "Ghent"
+  },
+  {
+    "City": "Gijón"
+  },
+  {
+    "City": "Gilbert"
+  },
+  {
+    "City": "Girona"
+  },
+  {
+    "City": "Gitega"
+  },
+  {
+    "City": "Glasgow"
+  },
+  {
+    "City": "Glendale (Arizona)"
+  },
+  {
+    "City": "Glendale (California)"
+  },
+  {
+    "City": "Gloucester"
+  },
+  {
+    "City": "Gold Coast"
+  },
+  {
+    "City": "Gorizia"
+  },
+  {
+    "City": "Dachstein-West"
+  },
+  {
+    "City": "Gothenburg"
+  },
+  {
+    "City": "Göttingen"
+  },
+  {
+    "City": "Gouda"
+  },
+  {
+    "City": "Granada"
+  },
+  {
+    "City": "Grand Forks"
+  },
+  {
+    "City": "Grand Island"
+  },
+  {
+    "City": "Grand Junction"
+  },
+  {
+    "City": "Grand Prairie"
+  },
+  {
+    "City": "Grand Rapids"
+  },
+  {
+    "City": "Granville"
+  },
+  {
+    "City": "Grasse"
+  },
+  {
+    "City": "Graz"
+  },
+  {
+    "City": "Great Falls"
+  },
+  {
+    "City": "Greeley"
+  },
+  {
+    "City": "Green Bay"
+  },
+  {
+    "City": "Greensboro"
+  },
+  {
+    "City": "Greenville NC"
+  },
+  {
+    "City": "Greenville SC"
+  },
+  {
+    "City": "Grenoble"
+  },
+  {
+    "City": "Grindelwald"
+  },
+  {
+    "City": "Groningen"
+  },
+  {
+    "City": "Grossarl"
+  },
+  {
+    "City": "Grosseto"
+  },
+  {
+    "City": "Grover Beach"
+  },
+  {
+    "City": "Gstaad"
+  },
+  {
+    "City": "Guadalajara"
+  },
+  {
+    "City": "Guadalupe"
+  },
+  {
+    "City": "Guangzhou"
+  },
+  {
+    "City": "Guayaquil"
+  },
+  {
+    "City": "Guimarães"
+  },
+  {
+    "City": "Gulf Shores"
+  },
+  {
+    "City": "Gulfport"
+  },
+  {
+    "City": "Gustavia"
+  },
+  {
+    "City": "Haarlem"
+  },
+  {
+    "City": "Haifa"
+  },
+  {
+    "City": "Half Moon Bay"
+  },
+  {
+    "City": "Halifax"
+  },
+  {
+    "City": "Halle"
+  },
+  {
+    "City": "Hamburg"
+  },
+  {
+    "City": "Hamilton (Bermuda)"
+  },
+  {
+    "City": "Hamilton (Canada)"
+  },
+  {
+    "City": "Hamilton (New Zealand)"
+  },
+  {
+    "City": "Hampton"
+  },
+  {
+    "City": "Hanford"
+  },
+  {
+    "City": "Hangzhou"
+  },
+  {
+    "City": "Hannover"
+  },
+  {
+    "City": "Hanoi"
+  },
+  {
+    "City": "Harare"
+  },
+  {
+    "City": "Hargeisa"
+  },
+  {
+    "City": "Harrisburg"
+  },
+  {
+    "City": "Hartford"
+  },
+  {
+    "City": "Hasselt"
+  },
+  {
+    "City": "Hastings"
+  },
+  {
+    "City": "Hat Yai"
+  },
+  {
+    "City": "Hattiesburg"
+  },
+  {
+    "City": "Havana"
+  },
+  {
+    "City": "Heidelberg"
+  },
+  {
+    "City": "Heilbronn"
+  },
+  {
+    "City": "Heiligenblut"
+  },
+  {
+    "City": "Helena"
+  },
+  {
+    "City": "Helsinki"
+  },
+  {
+    "City": "Henderson"
+  },
+  {
+    "City": "Heraklion"
+  },
+  {
+    "City": "Herceg Novi"
+  },
+  {
+    "City": "Hereford"
+  },
+  {
+    "City": "Hermosa Beach"
+  },
+  {
+    "City": "Hervey Bay"
+  },
+  {
+    "City": "Hialeah"
+  },
+  {
+    "City": "Hillsboro"
+  },
+  {
+    "City": "Hinterglemm"
+  },
+  {
+    "City": "Hinterstoder"
+  },
+  {
+    "City": "Hiroshima"
+  },
+  {
+    "City": "Hoi An"
+  },
+  {
+    "City": "Hobart"
+  },
+  {
+    "City": "Ho Chi Minh City"
+  },
+  {
+    "City": "Holbrook"
+  },
+  {
+    "City": "Hollywood (Florida)"
+  },
+  {
+    "City": "Honfleur"
+  },
+  {
+    "City": "Hong Kong"
+  },
+  {
+    "City": "Honiara"
+  },
+  {
+    "City": "Honolulu"
+  },
+  {
+    "City": "Horsens"
+  },
+  {
+    "City": "Hot Springs"
+  },
+  {
+    "City": "Houston"
+  },
+  {
+    "City": "Hua Hin"
+  },
+  {
+    "City": "Hue"
+  },
+  {
+    "City": "Huntington"
+  },
+  {
+    "City": "Huntington Beach"
+  },
+  {
+    "City": "Huntsville"
+  },
+  {
+    "City": "Hvar"
+  },
+  {
+    "City": "Hyères"
+  },
+  {
+    "City": "Ibiza Town"
+  },
+  {
+    "City": "Imola"
+  },
+  {
+    "City": "Imperia"
+  },
+  {
+    "City": "Inca"
+  },
+  {
+    "City": "Indianapolis"
+  },
+  {
+    "City": "Ingolstadt"
+  },
+  {
+    "City": "Innsbruck"
+  },
+  {
+    "City": "Interlaken"
+  },
+  {
+    "City": "Inverness"
+  },
+  {
+    "City": "Ioannina"
+  },
+  {
+    "City": "Iqaluit"
+  },
+  {
+    "City": "Irvine"
+  },
+  {
+    "City": "Irving"
+  },
+  {
+    "City": "Ischgl"
+  },
+  {
+    "City": "Isernia"
+  },
+  {
+    "City": "Lahore"
+  },
+  {
+    "City": "Islamorada"
+  },
+  {
+    "City": "Istanbul"
+  },
+  {
+    "City": "İzmir"
+  },
+  {
+    "City": "Izola"
+  },
+  {
+    "City": "Jackson"
+  },
+  {
+    "City": "Jackson (Tennessee)"
+  },
+  {
+    "City": "Jacksonville"
+  },
+  {
+    "City": "Jaipur"
+  },
+  {
+    "City": "Jefferson City"
+  },
+  {
+    "City": "Jena"
+  },
+  {
+    "City": "Jerez de la Frontera"
+  },
+  {
+    "City": "Jersey City"
+  },
+  {
+    "City": "Jerusalem"
+  },
+  {
+    "City": "Johannesburg"
+  },
+  {
+    "City": "Johnson City"
+  },
+  {
+    "City": "Joinville"
+  },
+  {
+    "City": "Jonesboro"
+  },
+  {
+    "City": "Juan-les-Pins"
+  },
+  {
+    "City": "Juba"
+  },
+  {
+    "City": "Juiz de Fora"
+  },
+  {
+    "City": "Juneau"
+  },
+  {
+    "City": "Jungfrau"
+  },
+  {
+    "City": "Jupiter"
+  },
+  {
+    "City": "Jūrmala"
+  },
+  {
+    "City": "Kabul"
+  },
+  {
+    "City": "Kaiserslautern"
+  },
+  {
+    "City": "Kalamata"
+  },
+  {
+    "City": "Kalamazoo"
+  },
+  {
+    "City": "Kampala"
+  },
+  {
+    "City": "Kanchanaburi"
+  },
+  {
+    "City": "Kansas City"
+  },
+  {
+    "City": "Kansas City (Kansas)"
+  },
+  {
+    "City": "Kappl"
+  },
+  {
+    "City": "Kaprun"
+  },
+  {
+    "City": "Islamabad"
+  },
+  {
+    "City": "Karlovy Vary"
+  },
+  {
+    "City": "Karlsruhe"
+  },
+  {
+    "City": "Kassel"
+  },
+  {
+    "City": "Kastoria"
+  },
+  {
+    "City": "Kathmandu"
+  },
+  {
+    "City": "Kaunas"
+  },
+  {
+    "City": "Kavala"
+  },
+  {
+    "City": "Kearney"
+  },
+  {
+    "City": "Keene"
+  },
+  {
+    "City": "Kemer"
+  },
+  {
+    "City": "Kenosha"
+  },
+  {
+    "City": "Key Largo"
+  },
+  {
+    "City": "Key West"
+  },
+  {
+    "City": "Khao Lak"
+  },
+  {
+    "City": "Khartoum"
+  },
+  {
+    "City": "Kiel"
+  },
+  {
+    "City": "Kigali"
+  },
+  {
+    "City": "Kilkenny"
+  },
+  {
+    "City": "Kingman"
+  },
+  {
+    "City": "Kingston (Jamaica)"
+  },
+  {
+    "City": "Kingston (Norfolk Island)"
+  },
+  {
+    "City": "Kingston upon Hull"
+  },
+  {
+    "City": "Kingstown"
+  },
+  {
+    "City": "Kinshasa"
+  },
+  {
+    "City": "Kissimmee"
+  },
+  {
+    "City": "Kitzbühel"
+  },
+  {
+    "City": "Klagenfurt"
+  },
+  {
+    "City": "Klaipėda"
+  },
+  {
+    "City": "Knoxville"
+  },
+  {
+    "City": "Kobe"
+  },
+  {
+    "City": "Koblenz"
+  },
+  {
+    "City": "Kolding"
+  },
+  {
+    "City": "Kolkata"
+  },
+  {
+    "City": "Komotini"
+  },
+  {
+    "City": "Koper"
+  },
+  {
+    "City": "Koror"
+  },
+  {
+    "City": "Kos"
+  },
+  {
+    "City": "Košice"
+  },
+  {
+    "City": "Kotor"
+  },
+  {
+    "City": "Krabi"
+  },
+  {
+    "City": "Krakow"
+  },
+  {
+    "City": "Kralendijk"
+  },
+  {
+    "City": "Krefeld"
+  },
+  {
+    "City": "Kuah"
+  },
+  {
+    "City": "Kuala Lumpur"
+  },
+  {
+    "City": "Kuşadası"
+  },
+  {
+    "City": "Kutná Hora"
+  },
+  {
+    "City": "Kuwait City"
+  },
+  {
+    "City": "Kyiv"
+  },
+  {
+    "City": "Kyoto"
+  },
+  {
+    "City": "Kyrenia"
+  },
+  {
+    "City": "La Ciotat"
+  },
+  {
+    "City": "La Clusaz"
+  },
+  {
+    "City": "La Laguna"
+  },
+  {
+    "City": "La Maddalena"
+  },
+  {
+    "City": "La Manga"
+  },
+  {
+    "City": "La Paz"
+  },
+  {
+    "City": "La Plagne"
+  },
+  {
+    "City": "La Plata"
+  },
+  {
+    "City": "La Rochelle"
+  },
+  {
+    "City": "La Romana"
+  },
+  {
+    "City": "La Serena"
+  },
+  {
+    "City": "La Spezia"
+  },
+  {
+    "City": "La Thuile"
+  },
+  {
+    "City": "Laax"
+  },
+  {
+    "City": "Lafayette (Indiana)"
+  },
+  {
+    "City": "Lafayette (Louisiana)"
+  },
+  {
+    "City": "Lagos (Nigeria)"
+  },
+  {
+    "City": "Lagos (Portugal)"
+  },
+  {
+    "City": "Laguna Beach"
+  },
+  {
+    "City": "Karachi"
+  },
+  {
+    "City": "Lakeland"
+  },
+  {
+    "City": "Lalitpur"
+  },
+  {
+    "City": "Lamezia Terme"
+  },
+  {
+    "City": "Lancaster"
+  },
+  {
+    "City": "Lancaster (U.S.)"
+  },
+  {
+    "City": "Landshut"
+  },
+  {
+    "City": "Lansing"
+  },
+  {
+    "City": "L'Aquila"
+  },
+  {
+    "City": "Laredo"
+  },
+  {
+    "City": "Largo"
+  },
+  {
+    "City": "Larnaca"
+  },
+  {
+    "City": "Las Cruces"
+  },
+  {
+    "City": "Las Palmas"
+  },
+  {
+    "City": "Las Vegas"
+  },
+  {
+    "City": "Latina"
+  },
+  {
+    "City": "Lausanne"
+  },
+  {
+    "City": "Laval"
+  },
+  {
+    "City": "Lawton"
+  },
+  {
+    "City": "Layton"
+  },
+  {
+    "City": "Le Havre"
+  },
+  {
+    "City": "Le Lavandou"
+  },
+  {
+    "City": "Le Mans"
+  },
+  {
+    "City": "Lecce"
+  },
+  {
+    "City": "Lecco"
+  },
+  {
+    "City": "Lech"
+  },
+  {
+    "City": "Leeds"
+  },
+  {
+    "City": "Legnano"
+  },
+  {
+    "City": "Leicester"
+  },
+  {
+    "City": "Leiden"
+  },
+  {
+    "City": "Leipzig"
+  },
+  {
+    "City": "Lemgo"
+  },
+  {
+    "City": "Leogang"
+  },
+  {
+    "City": "Les Arcs"
+  },
+  {
+    "City": "Les Deux Alpes"
+  },
+  {
+    "City": "Les Gets"
+  },
+  {
+    "City": "Les Houches"
+  },
+  {
+    "City": "Les Menuires"
+  },
+  {
+    "City": "Leuven"
+  },
+  {
+    "City": "Leverkusen"
+  },
+  {
+    "City": "Lexington"
+  },
+  {
+    "City": "Liberec"
+  },
+  {
+    "City": "Libreville"
+  },
+  {
+    "City": "Lichfield"
+  },
+  {
+    "City": "Liège"
+  },
+  {
+    "City": "Lienz"
+  },
+  {
+    "City": "Liepāja"
+  },
+  {
+    "City": "Lille"
+  },
+  {
+    "City": "Lilongwe"
+  },
+  {
+    "City": "Limassol"
+  },
+  {
+    "City": "Limerick"
+  },
+  {
+    "City": "Limoges"
+  },
+  {
+    "City": "Lincoln"
+  },
+  {
+    "City": "Lincoln"
+  },
+  {
+    "City": "Lindos"
+  },
+  {
+    "City": "Linz"
+  },
+  {
+    "City": "Lisbon"
+  },
+  {
+    "City": "Lisburn"
+  },
+  {
+    "City": "Little Rock"
+  },
+  {
+    "City": "Liverpool"
+  },
+  {
+    "City": "Livigno"
+  },
+  {
+    "City": "Livorno"
+  },
+  {
+    "City": "Ljubljana"
+  },
+  {
+    "City": "Lloret de Mar"
+  },
+  {
+    "City": "Llucmajor"
+  },
+  {
+    "City": "Loano"
+  },
+  {
+    "City": "Locarno"
+  },
+  {
+    "City": "Lodi"
+  },
+  {
+    "City": "Lodz"
+  },
+  {
+    "City": "Logan"
+  },
+  {
+    "City": "Logroño"
+  },
+  {
+    "City": "Lomé"
+  },
+  {
+    "City": "London (Canada)"
+  },
+  {
+    "City": "London (UK)"
+  },
+  {
+    "City": "Londrina"
+  },
+  {
+    "City": "Long Beach"
+  },
+  {
+    "City": "Long Beach (New York)"
+  },
+  {
+    "City": "Long Branch"
+  },
+  {
+    "City": "Longview (Texas)"
+  },
+  {
+    "City": "Longview (Washington)"
+  },
+  {
+    "City": "Lorain"
+  },
+  {
+    "City": "Los Alamos"
+  },
+  {
+    "City": "Los Angeles"
+  },
+  {
+    "City": "Los Cabos"
+  },
+  {
+    "City": "Los Cristianos"
+  },
+  {
+    "City": "Louisville"
+  },
+  {
+    "City": "Lourdes"
+  },
+  {
+    "City": "Loutraki"
+  },
+  {
+    "City": "Louvain-la-Neuve"
+  },
+  {
+    "City": "Lowell"
+  },
+  {
+    "City": "Luanda"
+  },
+  {
+    "City": "Lubbock"
+  },
+  {
+    "City": "Lübeck"
+  },
+  {
+    "City": "Lublin"
+  },
+  {
+    "City": "Lucca"
+  },
+  {
+    "City": "Lucerne"
+  },
+  {
+    "City": "Lugano"
+  },
+  {
+    "City": "Luganville"
+  },
+  {
+    "City": "Lund"
+  },
+  {
+    "City": "Lusaka"
+  },
+  {
+    "City": "Luxembourg"
+  },
+  {
+    "City": "Lyon"
+  },
+  {
+    "City": "Maastricht"
+  },
+  {
+    "City": "Macerata"
+  },
+  {
+    "City": "Macon"
+  },
+  {
+    "City": "Madera"
+  },
+  {
+    "City": "Madison"
+  },
+  {
+    "City": "Madonna di Campiglio"
+  },
+  {
+    "City": "Madrid"
+  },
+  {
+    "City": "Magaluf"
+  },
+  {
+    "City": "Magdeburg"
+  },
+  {
+    "City": "Mahón"
+  },
+  {
+    "City": "Mainz"
+  },
+  {
+    "City": "Majuro"
+  },
+  {
+    "City": "Makarska"
+  },
+  {
+    "City": "Malabo"
+  },
+  {
+    "City": "Malaga"
+  },
+  {
+    "City": "Malé"
+  },
+  {
+    "City": "Malia"
+  },
+  {
+    "City": "Malibu"
+  },
+  {
+    "City": "Malmö"
+  },
+  {
+    "City": "Manacor"
+  },
+  {
+    "City": "Manama"
+  },
+  {
+    "City": "Manchester (UK)"
+  },
+  {
+    "City": "Manchester (U.S.)"
+  },
+  {
+    "City": "Manhattan Beach"
+  },
+  {
+    "City": "Manhattan, KS"
+  },
+  {
+    "City": "Mannheim"
+  },
+  {
+    "City": "Manosque"
+  },
+  {
+    "City": "Mantua"
+  },
+  {
+    "City": "Maputo"
+  },
+  {
+    "City": "Mar del Plata"
+  },
+  {
+    "City": "Marathon"
+  },
+  {
+    "City": "Marbella"
+  },
+  {
+    "City": "Maria Alm"
+  },
+  {
+    "City": "Maribor"
+  },
+  {
+    "City": "Marigot"
+  },
+  {
+    "City": "Markham"
+  },
+  {
+    "City": "Marmaris"
+  },
+  {
+    "City": "Maroochydore"
+  },
+  {
+    "City": "Marquette"
+  },
+  {
+    "City": "Marrakesh"
+  },
+  {
+    "City": "Marsala"
+  },
+  {
+    "City": "Marseille"
+  },
+  {
+    "City": "Martigues"
+  },
+  {
+    "City": "Maseru"
+  },
+  {
+    "City": "Maspalomas"
+  },
+  {
+    "City": "Massa"
+  },
+  {
+    "City": "Matera"
+  },
+  {
+    "City": "Mayrhofen"
+  },
+  {
+    "City": "Mazara del Vallo"
+  },
+  {
+    "City": "Mbabane"
+  },
+  {
+    "City": "McKinney"
+  },
+  {
+    "City": "Mechelen"
+  },
+  {
+    "City": "Medellín"
+  },
+  {
+    "City": "Medford"
+  },
+  {
+    "City": "Megève"
+  },
+  {
+    "City": "Melbourne (Australia)"
+  },
+  {
+    "City": "Melbourne (U.S.)"
+  },
+  {
+    "City": "Memphis"
+  },
+  {
+    "City": "Menton"
+  },
+  {
+    "City": "Merano"
+  },
+  {
+    "City": "Merced"
+  },
+  {
+    "City": "Meribel"
+  },
+  {
+    "City": "Mérida"
+  },
+  {
+    "City": "Meridian"
+  },
+  {
+    "City": "Mesa"
+  },
+  {
+    "City": "Messina"
+  },
+  {
+    "City": "Mestre"
+  },
+  {
+    "City": "Metz"
+  },
+  {
+    "City": "Mexico City"
+  },
+  {
+    "City": "Miami"
+  },
+  {
+    "City": "Middelburg"
+  },
+  {
+    "City": "Midland"
+  },
+  {
+    "City": "Mijas"
+  },
+  {
+    "City": "Milan"
+  },
+  {
+    "City": "Milford"
+  },
+  {
+    "City": "Millau"
+  },
+  {
+    "City": "Milwaukee"
+  },
+  {
+    "City": "Mindelo"
+  },
+  {
+    "City": "Minneapolis"
+  },
+  {
+    "City": "Minot"
+  },
+  {
+    "City": "Minsk"
+  },
+  {
+    "City": "Miramar"
+  },
+  {
+    "City": "Mishawaka"
+  },
+  {
+    "City": "Mississauga"
+  },
+  {
+    "City": "Missoula"
+  },
+  {
+    "City": "Moab"
+  },
+  {
+    "City": "Mobile"
+  },
+  {
+    "City": "Modena"
+  },
+  {
+    "City": "Modesto"
+  },
+  {
+    "City": "Modica"
+  },
+  {
+    "City": "Moena"
+  },
+  {
+    "City": "Mogadishu"
+  },
+  {
+    "City": "Mogi das Cruzes"
+  },
+  {
+    "City": "Mombasa"
+  },
+  {
+    "City": "Monaco City"
+  },
+  {
+    "City": "Mönchengladbach"
+  },
+  {
+    "City": "Monrovia (Liberia)"
+  },
+  {
+    "City": "Monrovia (U.S.)"
+  },
+  {
+    "City": "Mons"
+  },
+  {
+    "City": "Monschau"
+  },
+  {
+    "City": "Monte Carlo"
+  },
+  {
+    "City": "Monte Rosa"
+  },
+  {
+    "City": "Montego Bay"
+  },
+  {
+    "City": "Montepulciano"
+  },
+  {
+    "City": "Monterey"
+  },
+  {
+    "City": "Montgomery"
+  },
+  {
+    "City": "Montluçon"
+  },
+  {
+    "City": "Montpelier"
+  },
+  {
+    "City": "Montpellier"
+  },
+  {
+    "City": "Montreal"
+  },
+  {
+    "City": "Montreux"
+  },
+  {
+    "City": "Monza"
+  },
+  {
+    "City": "Moraira"
+  },
+  {
+    "City": "Moreno Valley"
+  },
+  {
+    "City": "Morgantown"
+  },
+  {
+    "City": "Moroni"
+  },
+  {
+    "City": "Morro Bay"
+  },
+  {
+    "City": "Morzine"
+  },
+  {
+    "City": "Moscow"
+  },
+  {
+    "City": "Mount Vernon"
+  },
+  {
+    "City": "Mountain View"
+  },
+  {
+    "City": "Moutier"
+  },
+  {
+    "City": "Mulhouse"
+  },
+  {
+    "City": "Mumbai"
+  },
+  {
+    "City": "Munich"
+  },
+  {
+    "City": "Münster"
+  },
+  {
+    "City": "Murcia"
+  },
+  {
+    "City": "Murfreesboro"
+  },
+  {
+    "City": "Murter"
+  },
+  {
+    "City": "Mykonos"
+  },
+  {
+    "City": "Mytilene"
+  },
+  {
+    "City": "Nafplio"
+  },
+  {
+    "City": "Nagoya"
+  },
+  {
+    "City": "Nags Head"
+  },
+  {
+    "City": "Nairobi"
+  },
+  {
+    "City": "Namur"
+  },
+  {
+    "City": "Nancy"
+  },
+  {
+    "City": "Nantes"
+  },
+  {
+    "City": "Napa"
+  },
+  {
+    "City": "Naples (Italy)"
+  },
+  {
+    "City": "Naples (U.S.)"
+  },
+  {
+    "City": "Narbonne"
+  },
+  {
+    "City": "Narva"
+  },
+  {
+    "City": "Nashua"
+  },
+  {
+    "City": "Nashville"
+  },
+  {
+    "City": "Nassau"
+  },
+  {
+    "City": "Naxos"
+  },
+  {
+    "City": "Nazareth"
+  },
+  {
+    "City": "N'Djamena"
+  },
+  {
+    "City": "Negril"
+  },
+  {
+    "City": "Neiafu"
+  },
+  {
+    "City": "Nelson"
+  },
+  {
+    "City": "Nerja"
+  },
+  {
+    "City": "Netanya"
+  },
+  {
+    "City": "Nevers"
+  },
+  {
+    "City": "New Haven"
+  },
+  {
+    "City": "New London"
+  },
+  {
+    "City": "New Orleans"
+  },
+  {
+    "City": "New Smyrna Beach"
+  },
+  {
+    "City": "New York City"
+  },
+  {
+    "City": "Newark"
+  },
+  {
+    "City": "Newcastle (Australia)"
+  },
+  {
+    "City": "Newcastle (UK)"
+  },
+  {
+    "City": "Newport (UK)"
+  },
+  {
+    "City": "Newport (Rhode Island)"
+  },
+  {
+    "City": "Newport (Vermont)"
+  },
+  {
+    "City": "Newport Beach"
+  },
+  {
+    "City": "Newport News"
+  },
+  {
+    "City": "Newry"
+  },
+  {
+    "City": "Ngerulmud"
+  },
+  {
+    "City": "Nha Trang"
+  },
+  {
+    "City": "Niagara Falls"
+  },
+  {
+    "City": "Niamey"
+  },
+  {
+    "City": "Nice"
+  },
+  {
+    "City": "Nicosia"
+  },
+  {
+    "City": "Nijmegen"
+  },
+  {
+    "City": "Nimes"
+  },
+  {
+    "City": "Niort"
+  },
+  {
+    "City": "Noosa Heads"
+  },
+  {
+    "City": "Norfolk"
+  },
+  {
+    "City": "Normal"
+  },
+  {
+    "City": "Norman"
+  },
+  {
+    "City": "North Las Vegas"
+  },
+  {
+    "City": "North Port"
+  },
+  {
+    "City": "Norwalk"
+  },
+  {
+    "City": "Norwich"
+  },
+  {
+    "City": "Nottingham"
+  },
+  {
+    "City": "Nouakchott"
+  },
+  {
+    "City": "Novara"
+  },
+  {
+    "City": "Novigrad"
+  },
+  {
+    "City": "Nukunonu"
+  },
+  {
+    "City": "Nukuʻalofa"
+  },
+  {
+    "City": "Nuoro"
+  },
+  {
+    "City": "Nürnberg"
+  },
+  {
+    "City": "Nur-Sultan"
+  },
+  {
+    "City": "Nuuk"
+  },
+  {
+    "City": "Nyon"
+  },
+  {
+    "City": "Oakland"
+  },
+  {
+    "City": "Oaxaca"
+  },
+  {
+    "City": "Obergurgl"
+  },
+  {
+    "City": "Oberhausen"
+  },
+  {
+    "City": "Ocala"
+  },
+  {
+    "City": "Ocean City"
+  },
+  {
+    "City": "Ocean Grove"
+  },
+  {
+    "City": "Oceanside"
+  },
+  {
+    "City": "Ocho Rios"
+  },
+  {
+    "City": "Odense"
+  },
+  {
+    "City": "Odessa"
+  },
+  {
+    "City": "Ogden"
+  },
+  {
+    "City": "Oia"
+  },
+  {
+    "City": "Oklahoma City"
+  },
+  {
+    "City": "Olbia"
+  },
+  {
+    "City": "Oldenburg"
+  },
+  {
+    "City": "Olomouc"
+  },
+  {
+    "City": "Olympia"
+  },
+  {
+    "City": "Omaha"
+  },
+  {
+    "City": "Opatija"
+  },
+  {
+    "City": "Orange Beach"
+  },
+  {
+    "City": "Oranjestad (Aruba)"
+  },
+  {
+    "City": "Oranjestad (Sint Eustatius)"
+  },
+  {
+    "City": "Orem"
+  },
+  {
+    "City": "Oristano"
+  },
+  {
+    "City": "Orlando"
+  },
+  {
+    "City": "Orléans"
+  },
+  {
+    "City": "Ortisei"
+  },
+  {
+    "City": "Osaka"
+  },
+  {
+    "City": "Oshkosh"
+  },
+  {
+    "City": "Oslo"
+  },
+  {
+    "City": "Osnabrück"
+  },
+  {
+    "City": "Ostrava"
+  },
+  {
+    "City": "Ottawa"
+  },
+  {
+    "City": "Ouagadougou"
+  },
+  {
+    "City": "Oulu"
+  },
+  {
+    "City": "Ourense"
+  },
+  {
+    "City": "Overland Park"
+  },
+  {
+    "City": "Oviedo"
+  },
+  {
+    "City": "Owensboro"
+  },
+  {
+    "City": "Oxford"
+  },
+  {
+    "City": "Oxnard"
+  },
+  {
+    "City": "Pacific Grove"
+  },
+  {
+    "City": "Paderborn"
+  },
+  {
+    "City": "Padova"
+  },
+  {
+    "City": "Pago Pago"
+  },
+  {
+    "City": "Palanga"
+  },
+  {
+    "City": "Palavas-les-Flots"
+  },
+  {
+    "City": "Palermo"
+  },
+  {
+    "City": "Palikir"
+  },
+  {
+    "City": "Palm Bay"
+  },
+  {
+    "City": "Palm Beach"
+  },
+  {
+    "City": "Palm Springs"
+  },
+  {
+    "City": "Palma de Mallorca"
+  },
+  {
+    "City": "Palma Nova"
+  },
+  {
+    "City": "Palmetto"
+  },
+  {
+    "City": "Palo Alto"
+  },
+  {
+    "City": "Pamplona"
+  },
+  {
+    "City": "Panama City (Panama)"
+  },
+  {
+    "City": "Panama City (U.S.)"
+  },
+  {
+    "City": "Paphos"
+  },
+  {
+    "City": "Paradiski"
+  },
+  {
+    "City": "Paralia"
+  },
+  {
+    "City": "Paramaribo"
+  },
+  {
+    "City": "Parikia"
+  },
+  {
+    "City": "Paris"
+  },
+  {
+    "City": "Parkersburg"
+  },
+  {
+    "City": "Parma"
+  },
+  {
+    "City": "Pärnu"
+  },
+  {
+    "City": "Pasadena"
+  },
+  {
+    "City": "Passo del Tonale"
+  },
+  {
+    "City": "Passo Rolle"
+  },
+  {
+    "City": "Paterson"
+  },
+  {
+    "City": "Patras"
+  },
+  {
+    "City": "Pattaya"
+  },
+  {
+    "City": "Pau"
+  },
+  {
+    "City": "Pavia"
+  },
+  {
+    "City": "Peel"
+  },
+  {
+    "City": "Peguera"
+  },
+  {
+    "City": "Pembroke Pines"
+  },
+  {
+    "City": "Peniscola"
+  },
+  {
+    "City": "Pensacola"
+  },
+  {
+    "City": "Peoria"
+  },
+  {
+    "City": "Perast"
+  },
+  {
+    "City": "Périgueux"
+  },
+  {
+    "City": "Perpignan"
+  },
+  {
+    "City": "Perros-Guirec"
+  },
+  {
+    "City": "Perth (Australia)"
+  },
+  {
+    "City": "Perth (UK)"
+  },
+  {
+    "City": "Perugia"
+  },
+  {
+    "City": "Pesaro"
+  },
+  {
+    "City": "Pescara"
+  },
+  {
+    "City": "Pescasseroli"
+  },
+  {
+    "City": "Petah Tikva"
+  },
+  {
+    "City": "Peterborough"
+  },
+  {
+    "City": "Petra"
+  },
+  {
+    "City": "Petrovac"
+  },
+  {
+    "City": "Pforzheim"
+  },
+  {
+    "City": "Phang Nga"
+  },
+  {
+    "City": "Phetchabun"
+  },
+  {
+    "City": "Philadelphia"
+  },
+  {
+    "City": "Philipsburg"
+  },
+  {
+    "City": "Phoenix"
+  },
+  {
+    "City": "Phuket City"
+  },
+  {
+    "City": "Piacenza"
+  },
+  {
+    "City": "Pierre"
+  },
+  {
+    "City": "Pine Bluff"
+  },
+  {
+    "City": "Piraeus"
+  },
+  {
+    "City": "Piran"
+  },
+  {
+    "City": "Pisa"
+  },
+  {
+    "City": "Pistoia"
+  },
+  {
+    "City": "Pittsburgh"
+  },
+  {
+    "City": "Placencia"
+  },
+  {
+    "City": "Plano"
+  },
+  {
+    "City": "Playa Blanca"
+  },
+  {
+    "City": "Playa de las Américas"
+  },
+  {
+    "City": "Playa del Carmen"
+  },
+  {
+    "City": "Pleasure Point"
+  },
+  {
+    "City": "Plovdiv"
+  },
+  {
+    "City": "Plymouth"
+  },
+  {
+    "City": "Plzeň"
+  },
+  {
+    "City": "Podgorica"
+  },
+  {
+    "City": "Pointe-à-Pitre"
+  },
+  {
+    "City": "Poitiers"
+  },
+  {
+    "City": "Pollença"
+  },
+  {
+    "City": "Pompano Beach"
+  },
+  {
+    "City": "Pontevedra"
+  },
+  {
+    "City": "Pordenone"
+  },
+  {
+    "City": "Poreč"
+  },
+  {
+    "City": "Port Angeles"
+  },
+  {
+    "City": "Port Charlotte"
+  },
+  {
+    "City": "Port d'Andratx"
+  },
+  {
+    "City": "Port Louis"
+  },
+  {
+    "City": "Port Moresby"
+  },
+  {
+    "City": "Port of Spain"
+  },
+  {
+    "City": "Port St. Lucie"
+  },
+  {
+    "City": "Port Townsend"
+  },
+  {
+    "City": "Port Vila"
+  },
+  {
+    "City": "Port-au-Prince"
+  },
+  {
+    "City": "Portimão"
+  },
+  {
+    "City": "Portland (Oregon)"
+  },
+  {
+    "City": "Portland (Maine)"
+  },
+  {
+    "City": "Porto"
+  },
+  {
+    "City": "Porto Cervo"
+  },
+  {
+    "City": "Porto Cristo"
+  },
+  {
+    "City": "Porto Torres"
+  },
+  {
+    "City": "Portocolom"
+  },
+  {
+    "City": "Portofino"
+  },
+  {
+    "City": "Porto-Novo"
+  },
+  {
+    "City": "Portorož"
+  },
+  {
+    "City": "Porto-Vecchio"
+  },
+  {
+    "City": "Portsmouth (UK)"
+  },
+  {
+    "City": "Portsmouth (U.S.)"
+  },
+  {
+    "City": "Positano"
+  },
+  {
+    "City": "Potenza"
+  },
+  {
+    "City": "Potsdam"
+  },
+  {
+    "City": "Poznan"
+  },
+  {
+    "City": "Pozzuoli"
+  },
+  {
+    "City": "Prague"
+  },
+  {
+    "City": "Praia"
+  },
+  {
+    "City": "Praia da Rocha"
+  },
+  {
+    "City": "Prato"
+  },
+  {
+    "City": "Prescott"
+  },
+  {
+    "City": "Preston"
+  },
+  {
+    "City": "Pretoria"
+  },
+  {
+    "City": "Pristina"
+  },
+  {
+    "City": "Propriano"
+  },
+  {
+    "City": "Protaras"
+  },
+  {
+    "City": "Providence"
+  },
+  {
+    "City": "Provo"
+  },
+  {
+    "City": "Pueblo"
+  },
+  {
+    "City": "Puerto Baquerizo Moreno"
+  },
+  {
+    "City": "Puerto de la Cruz"
+  },
+  {
+    "City": "Puerto Plata"
+  },
+  {
+    "City": "Puerto Rico de Gran Canaria"
+  },
+  {
+    "City": "Puerto Vallarta"
+  },
+  {
+    "City": "Pula"
+  },
+  {
+    "City": "Punta Arenas"
+  },
+  {
+    "City": "Punta Cana"
+  },
+  {
+    "City": "Punta Gorda"
+  },
+  {
+    "City": "Pyeongchang"
+  },
+  {
+    "City": "Pyongyang"
+  },
+  {
+    "City": "Quarteira"
+  },
+  {
+    "City": "Quebec"
+  },
+  {
+    "City": "Quimper"
+  },
+  {
+    "City": "Quito"
+  },
+  {
+    "City": "Rabat"
+  },
+  {
+    "City": "Racine"
+  },
+  {
+    "City": "Ragusa"
+  },
+  {
+    "City": "Railay Beach"
+  },
+  {
+    "City": "Raleigh"
+  },
+  {
+    "City": "Ramallah"
+  },
+  {
+    "City": "Ramsey"
+  },
+  {
+    "City": "Rancho Cucamonga"
+  },
+  {
+    "City": "Randers"
+  },
+  {
+    "City": "Rapallo"
+  },
+  {
+    "City": "Rapid City"
+  },
+  {
+    "City": "Ras al-Khaimah"
+  },
+  {
+    "City": "Ratingen"
+  },
+  {
+    "City": "Ravello"
+  },
+  {
+    "City": "Ravenna"
+  },
+  {
+    "City": "Rayong"
+  },
+  {
+    "City": "Reading"
+  },
+  {
+    "City": "Redding"
+  },
+  {
+    "City": "Redondo Beach"
+  },
+  {
+    "City": "Regensburg"
+  },
+  {
+    "City": "Reggio Calabria"
+  },
+  {
+    "City": "Reggio Emilia"
+  },
+  {
+    "City": "Regina"
+  },
+  {
+    "City": "Rehovot"
+  },
+  {
+    "City": "Reims"
+  },
+  {
+    "City": "Rennes"
+  },
+  {
+    "City": "Reno"
+  },
+  {
+    "City": "Rethymno"
+  },
+  {
+    "City": "Reus"
+  },
+  {
+    "City": "Reutlingen"
+  },
+  {
+    "City": "Reykjavik"
+  },
+  {
+    "City": "Rhodes"
+  },
+  {
+    "City": "Richmond"
+  },
+  {
+    "City": "Rieti"
+  },
+  {
+    "City": "Riga"
+  },
+  {
+    "City": "Rijeka"
+  },
+  {
+    "City": "Rimini"
+  },
+  {
+    "City": "Rio de Janeiro"
+  },
+  {
+    "City": "Riomaggiore"
+  },
+  {
+    "City": "Rishon LeZion"
+  },
+  {
+    "City": "Riverside"
+  },
+  {
+    "City": "Riviera Maya"
+  },
+  {
+    "City": "Road Town"
+  },
+  {
+    "City": "Roanoke"
+  },
+  {
+    "City": "Rocamadour"
+  },
+  {
+    "City": "Rochester (Minnesota)"
+  },
+  {
+    "City": "Rochester (New York)"
+  },
+  {
+    "City": "Rock Hill"
+  },
+  {
+    "City": "Rockford"
+  },
+  {
+    "City": "Rockville"
+  },
+  {
+    "City": "Rodez"
+  },
+  {
+    "City": "Rogers"
+  },
+  {
+    "City": "Rome"
+  },
+  {
+    "City": "Ronda"
+  },
+  {
+    "City": "Rosario"
+  },
+  {
+    "City": "Roseau"
+  },
+  {
+    "City": "Roskilde"
+  },
+  {
+    "City": "Rostock"
+  },
+  {
+    "City": "Roswell"
+  },
+  {
+    "City": "Rotterdam"
+  },
+  {
+    "City": "Roubaix"
+  },
+  {
+    "City": "Rouen"
+  },
+  {
+    "City": "Rovigo"
+  },
+  {
+    "City": "Rovinj"
+  },
+  {
+    "City": "Rutland"
+  },
+  {
+    "City": "Sa Coma"
+  },
+  {
+    "City": "Sa Pobla"
+  },
+  {
+    "City": "Saalbach"
+  },
+  {
+    "City": "Saarbrücken"
+  },
+  {
+    "City": "Saas-Fee"
+  },
+  {
+    "City": "Sacramento"
+  },
+  {
+    "City": "Saint Paul"
+  },
+  {
+    "City": "Saint Petersburg"
+  },
+  {
+    "City": "Saint-Brieuc"
+  },
+  {
+    "City": "Sainte-Maxime"
+  },
+  {
+    "City": "Saintes-Maries-de-la-Mer"
+  },
+  {
+    "City": "Saint-Étienne"
+  },
+  {
+    "City": "Saint-Jean-Cap-Ferrat"
+  },
+  {
+    "City": "Saint-Malo"
+  },
+  {
+    "City": "Saint-Tropez"
+  },
+  {
+    "City": "Salamanca"
+  },
+  {
+    "City": "Salem (Oregon)"
+  },
+  {
+    "City": "Salem (Massachusetts)"
+  },
+  {
+    "City": "Salerno"
+  },
+  {
+    "City": "Salinas"
+  },
+  {
+    "City": "Salisbury"
+  },
+  {
+    "City": "Salou"
+  },
+  {
+    "City": "Salt Lake City"
+  },
+  {
+    "City": "Salta"
+  },
+  {
+    "City": "Salvador"
+  },
+  {
+    "City": "Salzburg"
+  },
+  {
+    "City": "Samaná"
+  },
+  {
+    "City": "San Angelo"
+  },
+  {
+    "City": "San Antonio"
+  },
+  {
+    "City": "San Bernardino"
+  },
+  {
+    "City": "San Clemente"
+  },
+  {
+    "City": "San Diego"
+  },
+  {
+    "City": "San Francisco"
+  },
+  {
+    "City": "San José (Costa Rica)"
+  },
+  {
+    "City": "San Jose (U.S.)"
+  },
+  {
+    "City": "San Juan"
+  },
+  {
+    "City": "San Luis Obispo"
+  },
+  {
+    "City": "San Marino"
+  },
+  {
+    "City": "San Mateo"
+  },
+  {
+    "City": "San Pedro"
+  },
+  {
+    "City": "San Pedro de Atacama"
+  },
+  {
+    "City": "San Rafael"
+  },
+  {
+    "City": "San Sebastián"
+  },
+  {
+    "City": "Sanaa"
+  },
+  {
+    "City": "Sanford"
+  },
+  {
+    "City": "Sanremo"
+  },
+  {
+    "City": "Sant Antoni de Portmany"
+  },
+  {
+    "City": "Santa Ana"
+  },
+  {
+    "City": "Santa Barbara"
+  },
+  {
+    "City": "Santa Clara"
+  },
+  {
+    "City": "Santa Clarita"
+  },
+  {
+    "City": "Santa Cruz"
+  },
+  {
+    "City": "Santa Cruz de la Sierra"
+  },
+  {
+    "City": "Santa Cruz de Tenerife"
+  },
+  {
+    "City": "Santa Eulària des Riu"
+  },
+  {
+    "City": "Santa Fe"
+  },
+  {
+    "City": "Santa Margherita Ligure"
+  },
+  {
+    "City": "Santa Maria (Cape Verde)"
+  },
+  {
+    "City": "Santa Maria (U.S.)"
+  },
+  {
+    "City": "Santa Monica"
+  },
+  {
+    "City": "Santa Pola"
+  },
+  {
+    "City": "Santa Ponsa"
+  },
+  {
+    "City": "Santa Rosa"
+  },
+  {
+    "City": "Santander"
+  },
+  {
+    "City": "Santanyí"
+  },
+  {
+    "City": "Santiago (Chile)"
+  },
+  {
+    "City": "Santiago (Dominican Rep.)"
+  },
+  {
+    "City": "Santiago de Compostela"
+  },
+  {
+    "City": "Santo Domingo"
+  },
+  {
+    "City": "Sao Paulo"
+  },
+  {
+    "City": "São Tomé"
+  },
+  {
+    "City": "Sapporo"
+  },
+  {
+    "City": "Sarajevo"
+  },
+  {
+    "City": "Sarasota"
+  },
+  {
+    "City": "Saratoga Springs"
+  },
+  {
+    "City": "S'Arenal"
+  },
+  {
+    "City": "Sarlat-la-Canéda"
+  },
+  {
+    "City": "Saskatoon"
+  },
+  {
+    "City": "Sassari"
+  },
+  {
+    "City": "Saumur"
+  },
+  {
+    "City": "Savannah"
+  },
+  {
+    "City": "Savona"
+  },
+  {
+    "City": "Schaffhausen"
+  },
+  {
+    "City": "Schenectady"
+  },
+  {
+    "City": "Schladming"
+  },
+  {
+    "City": "Scottsdale"
+  },
+  {
+    "City": "Scranton"
+  },
+  {
+    "City": "Sea Isle City"
+  },
+  {
+    "City": "Seal Beach"
+  },
+  {
+    "City": "Seaside"
+  },
+  {
+    "City": "Seattle"
+  },
+  {
+    "City": "Sedona"
+  },
+  {
+    "City": "Seefeld"
+  },
+  {
+    "City": "Segovia"
+  },
+  {
+    "City": "Seoul"
+  },
+  {
+    "City": "Serre Chevalier"
+  },
+  {
+    "City": "Sète"
+  },
+  {
+    "City": "Seville"
+  },
+  {
+    "City": "Shanghai"
+  },
+  {
+    "City": "Sharjah"
+  },
+  {
+    "City": "Sheffield"
+  },
+  {
+    "City": "Shenzhen"
+  },
+  {
+    "City": "Shreveport"
+  },
+  {
+    "City": "Šiauliai"
+  },
+  {
+    "City": "Šibenik"
+  },
+  {
+    "City": "Side"
+  },
+  {
+    "City": "Siegen"
+  },
+  {
+    "City": "Siena"
+  },
+  {
+    "City": "Sineu"
+  },
+  {
+    "City": "Singapore"
+  },
+  {
+    "City": "Sion"
+  },
+  {
+    "City": "Sioux City"
+  },
+  {
+    "City": "Sioux Falls"
+  },
+  {
+    "City": "Sitges"
+  },
+  {
+    "City": "Skiathos"
+  },
+  {
+    "City": "Skopje"
+  },
+  {
+    "City": "Sofia"
+  },
+  {
+    "City": "Sölden"
+  },
+  {
+    "City": "Söll"
+  },
+  {
+    "City": "Soller"
+  },
+  {
+    "City": "Solothurn"
+  },
+  {
+    "City": "Sondrio"
+  },
+  {
+    "City": "Sopot"
+  },
+  {
+    "City": "Sorocaba"
+  },
+  {
+    "City": "Sorrento"
+  },
+  {
+    "City": "South Bend"
+  },
+  {
+    "City": "Southampton"
+  },
+  {
+    "City": "Split"
+  },
+  {
+    "City": "Spokane"
+  },
+  {
+    "City": "Springdale"
+  },
+  {
+    "City": "Springfield (Illinois)"
+  },
+  {
+    "City": "Springfield (Massachusetts)"
+  },
+  {
+    "City": "Springfield (Missouri)"
+  },
+  {
+    "City": "Springfield (Oregon)"
+  },
+  {
+    "City": "St Albans"
+  },
+  {
+    "City": "St George's (Bermuda)"
+  },
+  {
+    "City": "St. Albans"
+  },
+  {
+    "City": "St. Anton"
+  },
+  {
+    "City": "St. Augustine"
+  },
+  {
+    "City": "St. Cloud"
+  },
+  {
+    "City": "St. Gallen"
+  },
+  {
+    "City": "St. George"
+  },
+  {
+    "City": "St. George's (Grenada)"
+  },
+  {
+    "City": "St. John's (Antigua and Barbuda)"
+  },
+  {
+    "City": "St. John's (Canada)"
+  },
+  {
+    "City": "St. Louis"
+  },
+  {
+    "City": "St. Moritz"
+  },
+  {
+    "City": "St. Petersburg (U.S.)"
+  },
+  {
+    "City": "Stamford"
+  },
+  {
+    "City": "Stanley"
+  },
+  {
+    "City": "Stavanger"
+  },
+  {
+    "City": "Stillwater"
+  },
+  {
+    "City": "Stirling"
+  },
+  {
+    "City": "Stockholm"
+  },
+  {
+    "City": "Stockton"
+  },
+  {
+    "City": "Stoke-on-Trent"
+  },
+  {
+    "City": "Stone Harbor"
+  },
+  {
+    "City": "Strasbourg"
+  },
+  {
+    "City": "Stuttgart"
+  },
+  {
+    "City": "Sucre"
+  },
+  {
+    "City": "Sukhothai"
+  },
+  {
+    "City": "Sumter"
+  },
+  {
+    "City": "Sunderland"
+  },
+  {
+    "City": "Sunnyvale"
+  },
+  {
+    "City": "Sunshine Coast"
+  },
+  {
+    "City": "Superior"
+  },
+  {
+    "City": "Surrey"
+  },
+  {
+    "City": "Sveti Stefan"
+  },
+  {
+    "City": "Swansea"
+  },
+  {
+    "City": "Sydney"
+  },
+  {
+    "City": "Syracuse (Italy)"
+  },
+  {
+    "City": "Syracuse (U.S.)"
+  },
+  {
+    "City": "Szczecin"
+  },
+  {
+    "City": "Tacoma"
+  },
+  {
+    "City": "Taipei"
+  },
+  {
+    "City": "Tallahassee"
+  },
+  {
+    "City": "Tallinn"
+  },
+  {
+    "City": "Tampa"
+  },
+  {
+    "City": "Tampere"
+  },
+  {
+    "City": "Tamworth"
+  },
+  {
+    "City": "Tangier"
+  },
+  {
+    "City": "Taormina"
+  },
+  {
+    "City": "Taranto"
+  },
+  {
+    "City": "Tarifa"
+  },
+  {
+    "City": "Tarragona"
+  },
+  {
+    "City": "Tartu"
+  },
+  {
+    "City": "Tashkent"
+  },
+  {
+    "City": "Tauplitz"
+  },
+  {
+    "City": "Tauranga"
+  },
+  {
+    "City": "Tavira"
+  },
+  {
+    "City": "Tbilisi"
+  },
+  {
+    "City": "Tel Aviv"
+  },
+  {
+    "City": "Temecula"
+  },
+  {
+    "City": "Tempe"
+  },
+  {
+    "City": "Teramo"
+  },
+  {
+    "City": "Terni"
+  },
+  {
+    "City": "Texarkana AR"
+  },
+  {
+    "City": "Texarkana TX"
+  },
+  {
+    "City": "The Bottom"
+  },
+  {
+    "City": "The Hague"
+  },
+  {
+    "City": "The Valley"
+  },
+  {
+    "City": "The Woodlands"
+  },
+  {
+    "City": "Thessaloniki"
+  },
+  {
+    "City": "Thimphu"
+  },
+  {
+    "City": "Tignes"
+  },
+  {
+    "City": "Tijuana"
+  },
+  {
+    "City": "Tilburg"
+  },
+  {
+    "City": "Tinos"
+  },
+  {
+    "City": "Tirana"
+  },
+  {
+    "City": "Tivat"
+  },
+  {
+    "City": "Tivoli"
+  },
+  {
+    "City": "Tokyo"
+  },
+  {
+    "City": "Toledo (Spain)"
+  },
+  {
+    "City": "Toledo (U.S.)"
+  },
+  {
+    "City": "Tooele"
+  },
+  {
+    "City": "Toowoomba"
+  },
+  {
+    "City": "Topeka"
+  },
+  {
+    "City": "Toronto"
+  },
+  {
+    "City": "Torre del Greco"
+  },
+  {
+    "City": "Torre del Mar"
+  },
+  {
+    "City": "Torremolinos"
+  },
+  {
+    "City": "Torrevieja"
+  },
+  {
+    "City": "Tórshavn"
+  },
+  {
+    "City": "Toruń"
+  },
+  {
+    "City": "Tossa de Mar"
+  },
+  {
+    "City": "Toulon"
+  },
+  {
+    "City": "Toulouse"
+  },
+  {
+    "City": "Tours"
+  },
+  {
+    "City": "Townsville"
+  },
+  {
+    "City": "Trani"
+  },
+  {
+    "City": "Trapani"
+  },
+  {
+    "City": "Trento"
+  },
+  {
+    "City": "Trenton"
+  },
+  {
+    "City": "Treviso"
+  },
+  {
+    "City": "Trier"
+  },
+  {
+    "City": "Trieste"
+  },
+  {
+    "City": "Tripoli"
+  },
+  {
+    "City": "Trogir"
+  },
+  {
+    "City": "Tromsø"
+  },
+  {
+    "City": "Trondheim"
+  },
+  {
+    "City": "Trouville-sur-Mer"
+  },
+  {
+    "City": "Troy"
+  },
+  {
+    "City": "Troyes"
+  },
+  {
+    "City": "Tucson"
+  },
+  {
+    "City": "Tui"
+  },
+  {
+    "City": "Tulsa"
+  },
+  {
+    "City": "Tulum"
+  },
+  {
+    "City": "Turin"
+  },
+  {
+    "City": "Turku"
+  },
+  {
+    "City": "Tuscaloosa"
+  },
+  {
+    "City": "Twin Falls"
+  },
+  {
+    "City": "Two Harbors"
+  },
+  {
+    "City": "Tybee Island"
+  },
+  {
+    "City": "Tyler"
+  },
+  {
+    "City": "Udine"
+  },
+  {
+    "City": "Udon Thani"
+  },
+  {
+    "City": "Ukiah"
+  },
+  {
+    "City": "Ulaanbaatar"
+  },
+  {
+    "City": "Ulcinj"
+  },
+  {
+    "City": "Ulm"
+  },
+  {
+    "City": "Umag"
+  },
+  {
+    "City": "Uppsala"
+  },
+  {
+    "City": "Urbino"
+  },
+  {
+    "City": "Ushuaia"
+  },
+  {
+    "City": "Utica"
+  },
+  {
+    "City": "Utrecht"
+  },
+  {
+    "City": "Vaduz"
+  },
+  {
+    "City": "Val d’Isère"
+  },
+  {
+    "City": "Val di Fassa"
+  },
+  {
+    "City": "Val Gardena"
+  },
+  {
+    "City": "Val Thorens"
+  },
+  {
+    "City": "Valence"
+  },
+  {
+    "City": "Valencia"
+  },
+  {
+    "City": "Valladolid"
+  },
+  {
+    "City": "Valldemossa"
+  },
+  {
+    "City": "Valle Isarco"
+  },
+  {
+    "City": "Valletta"
+  },
+  {
+    "City": "Valparaíso"
+  },
+  {
+    "City": "Vancouver (Canada)"
+  },
+  {
+    "City": "Vancouver (U.S.)"
+  },
+  {
+    "City": "Varazze"
+  },
+  {
+    "City": "Varese"
+  },
+  {
+    "City": "Varna"
+  },
+  {
+    "City": "Vaughan"
+  },
+  {
+    "City": "Vejle"
+  },
+  {
+    "City": "Venice (Italy)"
+  },
+  {
+    "City": "Venice (U.S.)"
+  },
+  {
+    "City": "Ventimiglia"
+  },
+  {
+    "City": "Ventspils"
+  },
+  {
+    "City": "Ventura"
+  },
+  {
+    "City": "Verbania"
+  },
+  {
+    "City": "Verbier"
+  },
+  {
+    "City": "Vercelli"
+  },
+  {
+    "City": "Vero Beach"
+  },
+  {
+    "City": "Verona"
+  },
+  {
+    "City": "Versailles"
+  },
+  {
+    "City": "Vevey"
+  },
+  {
+    "City": "Viareggio"
+  },
+  {
+    "City": "Vibo Valentia"
+  },
+  {
+    "City": "Viborg"
+  },
+  {
+    "City": "Vicenza"
+  },
+  {
+    "City": "Vichy"
+  },
+  {
+    "City": "Victoria (Canada)"
+  },
+  {
+    "City": "Victoria (Seychelles)"
+  },
+  {
+    "City": "Victorville"
+  },
+  {
+    "City": "Vienna"
+  },
+  {
+    "City": "Vigo"
+  },
+  {
+    "City": "Vilamoura"
+  },
+  {
+    "City": "Villach"
+  },
+  {
+    "City": "Villefranche-sur-Mer"
+  },
+  {
+    "City": "Vilnius"
+  },
+  {
+    "City": "Viña del Mar"
+  },
+  {
+    "City": "Virginia Beach"
+  },
+  {
+    "City": "Visalia"
+  },
+  {
+    "City": "Viterbo"
+  },
+  {
+    "City": "Vitoria-Gasteiz"
+  },
+  {
+    "City": "Volos"
+  },
+  {
+    "City": "Vrsar"
+  },
+  {
+    "City": "Waco"
+  },
+  {
+    "City": "Wakefield"
+  },
+  {
+    "City": "Warsaw"
+  },
+  {
+    "City": "Warth"
+  },
+  {
+    "City": "Washington D.C."
+  },
+  {
+    "City": "Waterford"
+  },
+  {
+    "City": "Watertown"
+  },
+  {
+    "City": "Watsonville"
+  },
+  {
+    "City": "Waukegan"
+  },
+  {
+    "City": "Waukesha"
+  },
+  {
+    "City": "Wellington (New Zealand)"
+  },
+  {
+    "City": "Wellington (U.S.)"
+  },
+  {
+    "City": "Wengen"
+  },
+  {
+    "City": "Weno"
+  },
+  {
+    "City": "West Lafayette"
+  },
+  {
+    "City": "West Palm Beach"
+  },
+  {
+    "City": "Westendorf"
+  },
+  {
+    "City": "Westminster"
+  },
+  {
+    "City": "Weston"
+  },
+  {
+    "City": "Wheeling"
+  },
+  {
+    "City": "White Plains"
+  },
+  {
+    "City": "Whitehorse"
+  },
+  {
+    "City": "Wichita"
+  },
+  {
+    "City": "Wichita Falls"
+  },
+  {
+    "City": "Wiesbaden"
+  },
+  {
+    "City": "Wildwood"
+  },
+  {
+    "City": "Wilkes-Barre"
+  },
+  {
+    "City": "Willemstad"
+  },
+  {
+    "City": "Williams"
+  },
+  {
+    "City": "Wilmington (Delaware)"
+  },
+  {
+    "City": "Wilmington (North Carolina)"
+  },
+  {
+    "City": "Winchester"
+  },
+  {
+    "City": "Windhoek"
+  },
+  {
+    "City": "Windsor"
+  },
+  {
+    "City": "Winnipeg"
+  },
+  {
+    "City": "Winslow"
+  },
+  {
+    "City": "Winston–Salem"
+  },
+  {
+    "City": "Winterthur"
+  },
+  {
+    "City": "Wolfsburg"
+  },
+  {
+    "City": "Wollongong"
+  },
+  {
+    "City": "Wolverhampton"
+  },
+  {
+    "City": "Woodburn"
+  },
+  {
+    "City": "Worcester (UK)"
+  },
+  {
+    "City": "Worcester (U.S.)"
+  },
+  {
+    "City": "Worthing"
+  },
+  {
+    "City": "Wroclaw"
+  },
+  {
+    "City": "Wuppertal"
+  },
+  {
+    "City": "Würzburg"
+  },
+  {
+    "City": "Yakima"
+  },
+  {
+    "City": "Yamoussoukro"
+  },
+  {
+    "City": "Yaoundé"
+  },
+  {
+    "City": "Yaren"
+  },
+  {
+    "City": "Yellowknife"
+  },
+  {
+    "City": "Yerevan"
+  },
+  {
+    "City": "Yokohama"
+  },
+  {
+    "City": "Yonkers"
+  },
+  {
+    "City": "York (UK)"
+  },
+  {
+    "City": "York (U.S.)"
+  },
+  {
+    "City": "Youngstown"
+  },
+  {
+    "City": "Yuma"
+  },
+  {
+    "City": "Zadar"
+  },
+  {
+    "City": "Zagreb"
+  },
+  {
+    "City": "Zakopane"
+  },
+  {
+    "City": "Zanzibar"
+  },
+  {
+    "City": "Zaragoza"
+  },
+  {
+    "City": "Zell am See"
+  },
+  {
+    "City": "Zell am Ziller"
+  },
+  {
+    "City": "Zermatt"
+  },
+  {
+    "City": "Zug"
+  },
+  {
+    "City": "Zurich"
+  },
+  {
+    "City": "Zwickau"
+  },
+  {
+    "City": "Zwolle"
+  }
+]
